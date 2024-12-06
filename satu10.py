@@ -1,4 +1,0 @@
-adding
-removing
-trying
-practicing
